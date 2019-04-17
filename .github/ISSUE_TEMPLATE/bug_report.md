@@ -21,9 +21,9 @@ Steps to reproduce the behavior:
 A clear and concise description of what you expected to happen.
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+If applicable, add screenshots or a screen recording to help explain your problem.
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - App Version [e.g. 1.0.0]
+**Environment (please complete the following information):**
+ - Device: [e.g. iPad Pro 11"]
+ - iOS version: [e.g. iOS 12.2]
+ - App version [e.g. 1.0.0]

@@ -1,11 +1,11 @@
 ---
 name: Package request
-about: Suggest a package to be pre-installed in Juno
+about: Suggest a Python package for Juno
 title: ''
-labels: ''
-assignees: ''
+labels: package
+assignees: navoshta
 
 ---
 
 **What is the name of the package?**
-A name or link to the package you think should be pre-installed in Juno.
+A name or link to the Python package you think should be pre-installed in Juno.
