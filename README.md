@@ -1,8 +1,8 @@
-# Juno Issue Tracker
-
 <p align="center">
-  <img src="assets/juno_logo.png"/>
+  <img src="juno_app_icon_logo.png" width="300"/>
 </p>
+
+# Juno Issue Tracker
 
 This is an issue tracker for Juno, an app running Jupyter locally on your iOS device (currently only distributed via Testflight).
 
