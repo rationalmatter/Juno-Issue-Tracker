@@ -10,7 +10,7 @@ Juno is currently in active development, so I expect quite a few things not to w
 
 * Native file management (similar to Pages, Numbers, etc.)
 * Associating notebook file type with Juno (e.g. opening notebooks from Files app)
-* iCloud sync for documents
+* Syncing documents via iCloud
 * Updating to Python 3.7
 * Package management for pure Python modules
 
