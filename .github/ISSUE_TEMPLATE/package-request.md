@@ -1,7 +1,7 @@
 ---
 name: Package request
 about: Suggest a Python package for Juno
-title: ''
+title: Add **package name**
 labels: package
 assignees: navoshta
 
