@@ -14,6 +14,9 @@ Juno is currently in active development, so I expect quite a few things not to w
 * Updating to Python 3.7
 * Package management for pure Python modules
 
+[Open a new issue](https://github.com/navoshta/Juno-Issue-Tracker/issues/new/choose){: .btn}
+
+<button name="button" onclick="https://github.com/navoshta/Juno-Issue-Tracker/issues/new/choose">Open a new issue</button>
 
 Juno currently ships with the following packages pre-installed:
 * NumPy 1.16.1
