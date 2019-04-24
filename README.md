@@ -15,8 +15,6 @@ Juno is currently in active development, so I expect quite a few things not to w
 * Updating to Python 3.7
 * Package management for pure Python modules
 
-<p align="center"><a href="https://github.com/navoshta/Juno-Issue-Tracker/issues/new/choose"><b>⚠️ Open a new issue</b></a></p>
-
 ### Pre-installed packages
 Juno currently ships with **Python 3.6.6** kernel and following packages pre-installed:
 * NumPy 1.16.1
@@ -24,3 +22,6 @@ Juno currently ships with **Python 3.6.6** kernel and following packages pre-ins
 
 ### Installing pure-Python modules
 You can install your own pure-Python modules by copying them into `/site-packages` folder in Juno documents via iOS's Files app. You should then be able to import them in your notebooks.
+
+<br>
+<p align="center"><a href="https://github.com/navoshta/Juno-Issue-Tracker/issues/new/choose"><b>⚠️ Open a new issue</b></a></p>
