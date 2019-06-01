@@ -11,9 +11,6 @@ Please, report any requests or defects you encounter with Juno by [opening an is
 ### Reporting issues
 Juno is currently in active development, so I expect quite a few things not to work — please, report anything you notice that doesn't feel right. There are a few things that will be implemented or fixed soon (no need to report those):
 
-* Native file management (similar to Pages, Numbers, etc.)
-* Associating notebook file type with Juno (e.g. opening notebooks from Files app)
-* Syncing documents via iCloud
 * Updating to Python 3.7
 * Package management for pure Python modules
 
