@@ -16,8 +16,8 @@ Juno is currently in active development, so I expect quite a few things not to w
 
 ### Pre-installed packages
 Juno currently ships with **Python 3.6.6** kernel and following packages pre-installed:
-* NumPy 1.16.1
-* Matplotlib 3.0.3
+* NumPy 1.16.4
+* Matplotlib 3.1.1
 
 ### Installing pure-Python modules
 You can install your own pure-Python modules by copying them into `/site-packages` folder in Juno documents via iOS's Files app. You should then be able to import them in your notebooks.
