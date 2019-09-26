@@ -2,7 +2,7 @@
 name: Bug report for Juno Connect
 about: Create a report to help us improve Juno Connect
 title: ''
-labels: bug, Juno Connect
+labels: Juno Connect, bug
 assignees: ''
 
 ---

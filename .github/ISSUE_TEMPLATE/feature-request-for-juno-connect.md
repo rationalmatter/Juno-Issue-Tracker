@@ -2,7 +2,7 @@
 name: Feature request for Juno Connect
 about: Suggest an idea for Juno Connect
 title: ''
-labels: enhancement, Juno Connect
+labels: Juno Connect, enhancement
 assignees: ''
 
 ---
